@@ -1,0 +1,27 @@
+h1 {
+        background-color: blueviolet;
+        color: aliceblue;
+        font-family: cursive;
+    }
+
+    a {
+        background-color: aqua;
+        color: aliceblue;
+        font-style: italic;
+        font-size: 80px;
+    }
+
+    .important {
+        background-color: crimson;
+        color: greenyellow;
+    }
+
+    .uppercase {
+        text-transform: uppercase;
+    }
+
+    #the-one {
+        background-color: gold;
+        color: aliceblue;
+        font-family: fantasy;
+    }
